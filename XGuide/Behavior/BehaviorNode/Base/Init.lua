@@ -1,0 +1,1 @@
+require("XGuide.Behaveior.Base.Behaveior")

@@ -1,0 +1,1 @@
+BehaviorOpenUiNode = XClass(BehaviorNode)

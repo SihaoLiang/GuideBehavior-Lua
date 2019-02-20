@@ -1,0 +1,2 @@
+BehaviorActionNode = XClass(BehaveiorNode)
+
